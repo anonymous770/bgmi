@@ -1,4 +1,3 @@
-bash pull
 clear
 echo "\033[1;31m File test is working Two 2 \033[m \n"
 #clear
