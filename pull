@@ -1,3 +1,4 @@
+cd ~/bgmi/
 git pull
 clear
 sh ~/bgmi/bot
