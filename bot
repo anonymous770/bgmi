@@ -1,5 +1,5 @@
 clear
-echo "\033[1;31m File test is working 5 \033[m \n"
+echo "\033[1;31m File test is working 6 \033[m \n"
 #clear
 echo "\033[1;32m File modification is running...\033[m"
 while :
