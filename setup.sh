@@ -1,4 +1,4 @@
-termux-setup-storage
+termux-setup-storage -y
 pkg install nano
 cp -r /sdcard/Android/data/com.pubg.imobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Config/Android/UserCustom.ini .
 cp -r bgmi ~/../usr/bin/
