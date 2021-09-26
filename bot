@@ -1,4 +1,4 @@
-git pull
+bash pull
 clear
 echo "\033[1;31m File test is working \033[m \n"
 #clear
