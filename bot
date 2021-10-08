@@ -4,8 +4,8 @@ clear
 echo "\033[1;32m File modification is running...\033[m"
 while :
 do
-#rm -rf /sdcard/Android/data/com.pubg.imobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/res_pufferpatch_1.6.0.15528.pak
-#rm -rf /sdcard/Android/data/com.pubg.imobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/res_pufferpatch_1.6.0.15533.pak
+rm -rf /sdcard/Android/data/com.pubg.imobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/res_pufferpatch_1.6.0.15528.pak
+rm -rf /sdcard/Android/data/com.pubg.imobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/res_pufferpatch_1.6.0.15533.pak
 #rm -rf /sdcard/Android/data/com.pubg.imobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/game_patch*
 cp -r ~/bgmi/UserCustom.ini /sdcard/Android/data/com.pubg.imobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Config/Android/
 done
